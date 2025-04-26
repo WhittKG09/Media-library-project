@@ -1,28 +1,34 @@
-#pragma once
 #ifndef MEDIA_H
 #define MEDIA_H
 
 #include <string>
 #include <vector>
-#include <iostream>
 
 class Media {
 protected:
-    char type;
     std::string title;
     std::string keyName;
     int rating;
     std::string genre;
     int length;
-    int yearReleased;
+    int year;
 
 public:
-    Media(char t, const std::string& ti, const std::string& k, int r, const std::string& g, int l, int y)
-        : type(t), title(ti), keyName(k), rating(r), genre(g), length(l), yearReleased(y) {
-    }
+    Media(const std::string& title,
+        const std::string& keyName,
+        int rating,
+        const std::string& genre,
+        int length,
+        int year);
+    virtual ~Media() = default;
 
-    virtual void print(std::ostream& os, const std::vector<class Media*>& mediaList) const = 0;
-    virtual ~Media() {}
+    virtual void print(std::ostream& out, const std::vector<Media*>& mediaList) const = 0;
+    virtual std::string getKeyName() const = 0;
+
+    // Common getters
+    std::string getTitle() const { return title; }
+    int getRating() const { return rating; }
+    int getYear() const { return year; }
 };
 
 #endif

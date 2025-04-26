@@ -1,0 +1,300 @@
+Movie: To Kill a Mockingbird (1962)
+Stars: Gregory Peck	Mary Badham		, 
+Movie: Ferris Bueller's Day Off (1986)
+Stars: Matthew Broderick	Alan Ruck	Jennifer Grey	, 
+Movie: Rocky (1976)
+Stars: Sylvester Stallone	Carl Weathers		, 
+Movie: Jaws (1975)
+Stars: Roy Scheider	Richard Dreyfuss		, 
+Movie: Daughters of the Dust (1991)
+Stars: Alva Rogers	Cora Lee Day		, 
+Movie: Raiders of the Lost Ark (1981)
+Stars: Harrison Ford	Karen Allen		, 
+Movie: Star Wars IV (1977)
+Stars: Mark Hamill	Carrie Fisher	Harrison Ford	Alec Guiness, 
+Movie: Hidden Figures (1977)
+Stars: 
+Movie: Mr. Holland's Opus (1995)
+Stars: Richard Dreyfuss	Jay Thomas	Glenne Headly	, 
+Book: To Kill a Mockingbird (1960)
+Weeks on NYT Bestseller: 4
+Book: Hamlet (1600)
+Weeks on NYT Bestseller: 5
+Book: Fahrenheit 451 (1600)
+Weeks on NYT Bestseller: 5
+Book: Animal Farm (1945)
+Weeks on NYT Bestseller: 6
+Book: The Great Gatsby (1925)
+Weeks on NYT Bestseller: 10
+Book: The Catcher in the Rye (1951)
+Weeks on NYT Bestseller: 9
+Book: Lord of the Flies (1954)
+Weeks on NYT Bestseller: 3
+Book: Of Mice and Men (1937)
+Weeks on NYT Bestseller: 15
+Movie: Blade Runner 2049 (2017)
+Stars: Ryan Gosling	Harrison Ford		, 
+Movie: Jurassic Park (1993)
+Stars: Sam Neill	Jeff Goldblum		, 
+Movie: Dune (2021)
+Stars: Timothee Chalamet	Zendaya		, 
+Movie: So I Married an Axe Murderer (1993)
+Stars: Mike Meyers	Nancy Travis		, 
+Movie: Fight Club (1999)
+Stars: Brad Pitt	Edward Norton		, 
+Movie: Percy Jackson and the Lightning Thief (2010)
+Stars: Logan Lerman	Alexandra Daddario		, 
+Movie: The Grand Budapest Hotel (2014)
+Stars: Ralph Fiennes	Saoirse Ronan		, 
+Movie: Superman (1978)
+Stars: Christopher Reeve	Gene Hackman	Margo Kidder	, 
+Movie: Spirited Away (2002)
+Stars: Rumi Hiiragi	Miyu Irino		, 
+Movie: Gone Girl (2014)
+Stars: Ben Affleck	Rosamund Pike		, 
+Movie: Moonlight (2016)
+Stars: Mahershala Ali	Naomi Harris		, 
+Movie: The Wolf of Wallstreet (2013)
+Stars: Leonardo DiCaprio	Jonah Hill		, 
+Movie: Maximum Overdrive (1986)
+Stars: Emilio Estivez	Pat Hingle	Laura Harrington	, 
+Book: Crime and Punishment (1866)
+Weeks on NYT Bestseller: 15
+Book: House of Leaves (2000)
+Weeks on NYT Bestseller: 0
+Book: I Can Teach You to Be Rich (2009)
+Weeks on NYT Bestseller: 16
+Book: Neuromancer (1984)
+Weeks on NYT Bestseller: 16
+Book: Percy Jackson and the Last Olympian (2009)
+Weeks on NYT Bestseller: 15
+Book: Six of Crows (2015)
+Weeks on NYT Bestseller: 20
+Book: The Alchemist (1993)
+Weeks on NYT Bestseller: 10
+Book: The Goldfinch (2013)
+Weeks on NYT Bestseller: 1
+Book: The Hunger Games (2008)
+Weeks on NYT Bestseller: 15
+Book: The Music of Erich Zann (1921)
+Weeks on NYT Bestseller: 2
+Book: Watchmen (1987)
+Weeks on NYT Bestseller: 0
+Book: Way of kings (2010)
+Weeks on NYT Bestseller: 5
+Song: All Too Well (2012)
+Top 40: No
+Song: Baba Yetu (2025)
+Top 40: No
+Song: Ball if I want to (2021)
+Top 40: No
+Song: Blinding Lights (2021)
+Top 40: No
+Song: Call out my name (2021)
+Top 40: No
+Song: Yesterday (1965)
+Top 40: No
+Song: Compass (2018)
+Top 40: No
+Song: Easy on me (2021)
+Top 40: No
+Song: Figures (2018)
+Top 40: No
+Song: First Love / Late Spring (2014)
+Top 40: No
+Song: Frozen (2017)
+Top 40: No
+Song: Garden Grove (1998)
+Top 40: No
+Song: Hey Jude (1968)
+Top 40: No
+Song: Har dil ki ava (2014)
+Top 40: No
+Song: Holy Ghost (2015)
+Top 40: No
+Song: kal ho na ho (2009)
+Top 40: No
+Song: Let It Be (1970)
+Top 40: No
+Song: Monks (2012)
+Top 40: No
+Song: More Than a Woman (1977)
+Top 40: No
+Song: nasha ha (2010)
+Top 40: No
+Song: Out Tha Mud (2015)
+Top 40: No
+Song: Phali dafa (2017)
+Top 40: No
+Song: Sea Dragon (2018)
+Top 40: No
+Song: Slacker (2002)
+Top 40: No
+Song: Something (2015)
+Top 40: No
+Song: Stayin' Alive (1979)
+Top 40: No
+Song: Sweet Caroline (1969)
+Top 40: No
+Song: Sweet Life (2012)
+Top 40: No
+Song: Thank u - next (2019)
+Top 40: No
+Song: The Mountain Top (2021)
+Top 40: No
+Song: Tik Tok (2009)
+Top 40: No
+Song: Tranquility Base Hotel & Casino (2018)
+Top 40: No
+Song: Wake Up (2015)
+Top 40: No
+Movie: To Kill a Mockingbird (1962)
+Stars: Gregory Peck	Mary Badham		, 
+Movie: Ferris Bueller's Day Off (1986)
+Stars: Matthew Broderick	Alan Ruck	Jennifer Grey	, 
+Movie: Rocky (1976)
+Stars: Sylvester Stallone	Carl Weathers		, 
+Movie: Jaws (1975)
+Stars: Roy Scheider	Richard Dreyfuss		, 
+Movie: Daughters of the Dust (1991)
+Stars: Alva Rogers	Cora Lee Day		, 
+Movie: Raiders of the Lost Ark (1981)
+Stars: Harrison Ford	Karen Allen		, 
+Movie: Star Wars IV (1977)
+Stars: Mark Hamill	Carrie Fisher	Harrison Ford	Alec Guiness, 
+Movie: Hidden Figures (1977)
+Stars: 
+Movie: Mr. Holland's Opus (1995)
+Stars: Richard Dreyfuss	Jay Thomas	Glenne Headly	, 
+Book: To Kill a Mockingbird (1960)
+Weeks on NYT Bestseller: 4
+Book: Hamlet (1600)
+Weeks on NYT Bestseller: 5
+Book: Fahrenheit 451 (1600)
+Weeks on NYT Bestseller: 5
+Book: Animal Farm (1945)
+Weeks on NYT Bestseller: 6
+Book: The Great Gatsby (1925)
+Weeks on NYT Bestseller: 10
+Book: The Catcher in the Rye (1951)
+Weeks on NYT Bestseller: 9
+Book: Lord of the Flies (1954)
+Weeks on NYT Bestseller: 3
+Book: Of Mice and Men (1937)
+Weeks on NYT Bestseller: 15
+Movie: Blade Runner 2049 (2017)
+Stars: Ryan Gosling	Harrison Ford		, 
+Movie: Jurassic Park (1993)
+Stars: Sam Neill	Jeff Goldblum		, 
+Movie: Dune (2021)
+Stars: Timothee Chalamet	Zendaya		, 
+Movie: So I Married an Axe Murderer (1993)
+Stars: Mike Meyers	Nancy Travis		, 
+Movie: Fight Club (1999)
+Stars: Brad Pitt	Edward Norton		, 
+Movie: Percy Jackson and the Lightning Thief (2010)
+Stars: Logan Lerman	Alexandra Daddario		, 
+Movie: The Grand Budapest Hotel (2014)
+Stars: Ralph Fiennes	Saoirse Ronan		, 
+Movie: Superman (1978)
+Stars: Christopher Reeve	Gene Hackman	Margo Kidder	, 
+Movie: Spirited Away (2002)
+Stars: Rumi Hiiragi	Miyu Irino		, 
+Movie: Gone Girl (2014)
+Stars: Ben Affleck	Rosamund Pike		, 
+Movie: Moonlight (2016)
+Stars: Mahershala Ali	Naomi Harris		, 
+Movie: The Wolf of Wallstreet (2013)
+Stars: Leonardo DiCaprio	Jonah Hill		, 
+Movie: Maximum Overdrive (1986)
+Stars: Emilio Estivez	Pat Hingle	Laura Harrington	, 
+Book: Crime and Punishment (1866)
+Weeks on NYT Bestseller: 15
+Book: House of Leaves (2000)
+Weeks on NYT Bestseller: 0
+Book: I Can Teach You to Be Rich (2009)
+Weeks on NYT Bestseller: 16
+Book: Neuromancer (1984)
+Weeks on NYT Bestseller: 16
+Book: Percy Jackson and the Last Olympian (2009)
+Weeks on NYT Bestseller: 15
+Book: Six of Crows (2015)
+Weeks on NYT Bestseller: 20
+Book: The Alchemist (1993)
+Weeks on NYT Bestseller: 10
+Book: The Goldfinch (2013)
+Weeks on NYT Bestseller: 1
+Book: The Hunger Games (2008)
+Weeks on NYT Bestseller: 15
+Book: The Music of Erich Zann (1921)
+Weeks on NYT Bestseller: 2
+Book: Watchmen (1987)
+Weeks on NYT Bestseller: 0
+Book: Way of kings (2010)
+Weeks on NYT Bestseller: 5
+Song: All Too Well (2012)
+Top 40: No
+Song: Baba Yetu (2025)
+Top 40: No
+Song: Ball if I want to (2021)
+Top 40: No
+Song: Blinding Lights (2021)
+Top 40: No
+Song: Call out my name (2021)
+Top 40: No
+Song: Yesterday (1965)
+Top 40: No
+Song: Compass (2018)
+Top 40: No
+Song: Easy on me (2021)
+Top 40: No
+Song: Figures (2018)
+Top 40: No
+Song: First Love / Late Spring (2014)
+Top 40: No
+Song: Frozen (2017)
+Top 40: No
+Song: Garden Grove (1998)
+Top 40: No
+Song: Hey Jude (1968)
+Top 40: No
+Song: Har dil ki ava (2014)
+Top 40: No
+Song: Holy Ghost (2015)
+Top 40: No
+Song: kal ho na ho (2009)
+Top 40: No
+Song: Let It Be (1970)
+Top 40: No
+Song: Monks (2012)
+Top 40: No
+Song: More Than a Woman (1977)
+Top 40: No
+Song: nasha ha (2010)
+Top 40: No
+Song: Out Tha Mud (2015)
+Top 40: No
+Song: Phali dafa (2017)
+Top 40: No
+Song: Sea Dragon (2018)
+Top 40: No
+Song: Slacker (2002)
+Top 40: No
+Song: Something (2015)
+Top 40: No
+Song: Stayin' Alive (1979)
+Top 40: No
+Song: Sweet Caroline (1969)
+Top 40: No
+Song: Sweet Life (2012)
+Top 40: No
+Song: Thank u - next (2019)
+Top 40: No
+Song: The Mountain Top (2021)
+Top 40: No
+Song: Tik Tok (2009)
+Top 40: No
+Song: Tranquility Base Hotel & Casino (2018)
+Top 40: No
+Song: Wake Up (2015)
+Top 40: No

@@ -1,0 +1,20 @@
+Non-numeric field: M	Hidden Figures	9	Drama	126	2016	Jaraji P Henson	Octavia Spencer	Janelle Monae		
+Invalid integer value: B	Hamlet	William Shakespeare	4	Tragedy	214	1600	5			
+Non-numeric field: B	Fahrenheit 451	Ray Bradbury	Sci-Fi	256	1953	8				
+Invalid integer value: M	So I Married an Axe Murderer	Thomas Schlamme	15	Comedy	93	1993	Mike Meyers	Nancy Travis		
+Invalid integer value: B	Crime and Punishment	Fyodor Dostoevsky	7	Crime Fiction	576	1866	15			
+Non-numeric weeksNYT: B	Watchmen	Alan Moore	8	Sci-Fi	416	1987	ERROR			
+Invalid integer value: S	Baba Yetu	Christopher Tin	10	Choir	203	2025	0			
+Non-numeric field: S	Blinding Lights	the Weeknd	10	9	INVALID	2020	1			
+Invalid top40 value: S	Stayin' Alive	Bee Gees	10	Pop	419	1979	ERROR			
+Non-numeric field: Q										
+Invalid integer value in N command: M,Psych 2: Lassie Come Home,Steve Franks,16,Comedy,115,2020,James Roday,Dule Hill,Timothy Omundson
+Non-numeric field in N command: S,Respect,Aretha Franklin,ERROR,R&B,281,1967,1
+Non-numeric field in N command: S,Strawberry Fields Forever,Beatles,9,pop,ERROR,1967,0
+Invalid top40 value in N command: S,Strawberry Fields Forever,Beatles,9,pop,185,1967,ERROR
+Non-numeric weeksNYT in N command: B,Close Encounters,Steven Spielberg,5,Science Fiction,256,1997,ERROR
+Non-numeric field in N command: B,The Brothers Hawthorne,Jennifer Lynn Barnes,9,Mystery,400,ERROR,0
+Invalid integer value in N command: B,Lessons in Chemistry,Bonnie Garmus,5,Humor,320,2026,0
+Title not found for L: Lost
+Actor not found in any movie for F: Victor Lee
+Key name not found for K: Harrison Ford

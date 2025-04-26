@@ -1,25 +1,22 @@
-#pragma once
 #ifndef SONG_H
 #define SONG_H
 
 #include "Media.h"
 
 class Song : public Media {
-private:
     bool top40;
 
 public:
-    Song(const std::string& ti, const std::string& k, int r, const std::string& g, int l, int y, bool t)
-        : Media('S', ti, k, r, g, l, y), top40(t) {
-    }
+    Song(const std::string& title,
+        const std::string& keyName,
+        int rating,
+        const std::string& genre,
+        int length,
+        int year,
+        bool top40);
 
-    bool getTop40() const { return top40; }
-    void setTop40(bool t) { top40 = t; }
-
-    void print(std::ostream& os, const std::vector<Media*>&) const override {
-        os << "Song: " << title << " (" << yearReleased << ")\n";
-        os << "Top 40: " << (top40 ? "Yes" : "No") << "\n";
-    }
+    void print(std::ostream& out, const std::vector<Media*>& mediaList) const override;
+    std::string getKeyName() const override;
 };
 
 #endif

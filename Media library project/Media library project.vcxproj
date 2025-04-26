@@ -128,10 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Text Include="mediaCommands.txt" />
+    <Text Include="mediaError.txt" />
     <Text Include="mediaList.txt" />
+    <Text Include="mediaOutput.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Book.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Media.cpp" />
+    <ClCompile Include="Movie.cpp" />
+    <ClCompile Include="Song.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Book.h" />

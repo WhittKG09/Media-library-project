@@ -1,0 +1,917 @@
+
+--- Movies ---
+Movie: To Kill a Mockingbird (1962), Rating: 5/10, Genre: Drama, Length: 129 minutes
+Stars: Gregory Peck, Mary Badham
+Movie: Ferris Bueller's Day Off (1986), Rating: 7/10, Genre: Comedy, Length: 103 minutes
+Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Movie: Rocky (1976), Rating: 7/10, Genre: Action, Length: 119 minutes
+Stars: Sylvester Stallone, Carl Weathers
+Movie: Jaws (1975), Rating: 5/10, Genre: Action, Length: 129 minutes
+Stars: Roy Scheider, Richard Dreyfuss
+Movie: Daughters of the Dust (1991), Rating: 8/10, Genre: Drama, Length: 112 minutes
+Stars: Alva Rogers, Cora Lee Day
+Movie: Raiders of the Lost Ark (1981), Rating: 6/10, Genre: Action, Length: 115 minutes
+Stars: Harrison Ford, Karen Allen
+Movie: Star Wars IV (1977), Rating: 6/10, Genre: Action, Length: 121 minutes
+Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Movie: Mr. Holland's Opus (1995), Rating: 8/10, Genre: Drama/Musical, Length: 143 minutes
+Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Movie: Blade Runner 2049 (2017), Rating: 9/10, Genre: Sci-Fi, Length: 163 minutes
+Stars: Ryan Gosling, Harrison Ford
+Movie: Jurassic Park (1993), Rating: 8/10, Genre: Sci-Fi, Length: 127 minutes
+Stars: Sam Neill, Jeff Goldblum
+Movie: Dune (2021), Rating: 7/10, Genre: Sci-Fi, Length: 155 minutes
+Stars: Timothee Chalamet, Zendaya
+Movie: Fight Club (1999), Rating: 10/10, Genre: Drama, Length: 7219 minutes
+Stars: Brad Pitt, Edward Norton
+Movie: Percy Jackson and the Lightning Thief (2010), Rating: 2/10, Genre: Fantasy, Length: 119 minutes
+Stars: Logan Lerman, Alexandra Daddario
+Movie: The Grand Budapest Hotel (2014), Rating: 9/10, Genre: Adventure, Length: 100 minutes
+Stars: Ralph Fiennes, Saoirse Ronan
+Movie: Superman (1978), Rating: 8/10, Genre: Sci-Fi, Length: 143 minutes
+Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Movie: Spirited Away (2002), Rating: 8/10, Genre: Fantasy, Length: 125 minutes
+Stars: Rumi Hiiragi, Miyu Irino
+Movie: Gone Girl (2014), Rating: 10/10, Genre: Thriller/Mystery, Length: 149 minutes
+Stars: Ben Affleck, Rosamund Pike
+Movie: Moonlight (2016), Rating: 10/10, Genre: Drama, Length: 119 minutes
+Stars: Mahershala Ali, Naomi Harris
+Movie: The Wolf of Wallstreet (2013), Rating: 10/10, Genre: Comedy, Length: 180 minutes
+Stars: Leonardo DiCaprio, Jonah Hill
+Movie: Maximum Overdrive (1986), Rating: 5/10, Genre: Horror, Length: 167 minutes
+Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+
+--- Books ---
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+
+--- Songs ---
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+
+--- All Media ---
+Movie: To Kill a Mockingbird (1962), Rating: 5/10, Genre: Drama, Length: 129 minutes
+Stars: Gregory Peck, Mary Badham
+Movie: Ferris Bueller's Day Off (1986), Rating: 7/10, Genre: Comedy, Length: 103 minutes
+Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Movie: Rocky (1976), Rating: 7/10, Genre: Action, Length: 119 minutes
+Stars: Sylvester Stallone, Carl Weathers
+Movie: Jaws (1975), Rating: 5/10, Genre: Action, Length: 129 minutes
+Stars: Roy Scheider, Richard Dreyfuss
+Movie: Daughters of the Dust (1991), Rating: 8/10, Genre: Drama, Length: 112 minutes
+Stars: Alva Rogers, Cora Lee Day
+Movie: Raiders of the Lost Ark (1981), Rating: 6/10, Genre: Action, Length: 115 minutes
+Stars: Harrison Ford, Karen Allen
+Movie: Star Wars IV (1977), Rating: 6/10, Genre: Action, Length: 121 minutes
+Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Movie: Mr. Holland's Opus (1995), Rating: 8/10, Genre: Drama/Musical, Length: 143 minutes
+Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Movie: Blade Runner 2049 (2017), Rating: 9/10, Genre: Sci-Fi, Length: 163 minutes
+Stars: Ryan Gosling, Harrison Ford
+Movie: Jurassic Park (1993), Rating: 8/10, Genre: Sci-Fi, Length: 127 minutes
+Stars: Sam Neill, Jeff Goldblum
+Movie: Dune (2021), Rating: 7/10, Genre: Sci-Fi, Length: 155 minutes
+Stars: Timothee Chalamet, Zendaya
+Movie: Fight Club (1999), Rating: 10/10, Genre: Drama, Length: 7219 minutes
+Stars: Brad Pitt, Edward Norton
+Movie: Percy Jackson and the Lightning Thief (2010), Rating: 2/10, Genre: Fantasy, Length: 119 minutes
+Stars: Logan Lerman, Alexandra Daddario
+Movie: The Grand Budapest Hotel (2014), Rating: 9/10, Genre: Adventure, Length: 100 minutes
+Stars: Ralph Fiennes, Saoirse Ronan
+Movie: Superman (1978), Rating: 8/10, Genre: Sci-Fi, Length: 143 minutes
+Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Movie: Spirited Away (2002), Rating: 8/10, Genre: Fantasy, Length: 125 minutes
+Stars: Rumi Hiiragi, Miyu Irino
+Movie: Gone Girl (2014), Rating: 10/10, Genre: Thriller/Mystery, Length: 149 minutes
+Stars: Ben Affleck, Rosamund Pike
+Movie: Moonlight (2016), Rating: 10/10, Genre: Drama, Length: 119 minutes
+Stars: Mahershala Ali, Naomi Harris
+Movie: The Wolf of Wallstreet (2013), Rating: 10/10, Genre: Comedy, Length: 180 minutes
+Stars: Leonardo DiCaprio, Jonah Hill
+Movie: Maximum Overdrive (1986), Rating: 5/10, Genre: Horror, Length: 167 minutes
+Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+
+--- Media By Type ---
+Movie: To Kill a Mockingbird (1962), Rating: 5/10, Genre: Drama, Length: 129 minutes
+Stars: Gregory Peck, Mary Badham
+Movie: Ferris Bueller's Day Off (1986), Rating: 7/10, Genre: Comedy, Length: 103 minutes
+Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Movie: Rocky (1976), Rating: 7/10, Genre: Action, Length: 119 minutes
+Stars: Sylvester Stallone, Carl Weathers
+Movie: Jaws (1975), Rating: 5/10, Genre: Action, Length: 129 minutes
+Stars: Roy Scheider, Richard Dreyfuss
+Movie: Daughters of the Dust (1991), Rating: 8/10, Genre: Drama, Length: 112 minutes
+Stars: Alva Rogers, Cora Lee Day
+Movie: Raiders of the Lost Ark (1981), Rating: 6/10, Genre: Action, Length: 115 minutes
+Stars: Harrison Ford, Karen Allen
+Movie: Star Wars IV (1977), Rating: 6/10, Genre: Action, Length: 121 minutes
+Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Movie: Mr. Holland's Opus (1995), Rating: 8/10, Genre: Drama/Musical, Length: 143 minutes
+Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Movie: Blade Runner 2049 (2017), Rating: 9/10, Genre: Sci-Fi, Length: 163 minutes
+Stars: Ryan Gosling, Harrison Ford
+Movie: Jurassic Park (1993), Rating: 8/10, Genre: Sci-Fi, Length: 127 minutes
+Stars: Sam Neill, Jeff Goldblum
+Movie: Dune (2021), Rating: 7/10, Genre: Sci-Fi, Length: 155 minutes
+Stars: Timothee Chalamet, Zendaya
+Movie: Fight Club (1999), Rating: 10/10, Genre: Drama, Length: 7219 minutes
+Stars: Brad Pitt, Edward Norton
+Movie: Percy Jackson and the Lightning Thief (2010), Rating: 2/10, Genre: Fantasy, Length: 119 minutes
+Stars: Logan Lerman, Alexandra Daddario
+Movie: The Grand Budapest Hotel (2014), Rating: 9/10, Genre: Adventure, Length: 100 minutes
+Stars: Ralph Fiennes, Saoirse Ronan
+Movie: Superman (1978), Rating: 8/10, Genre: Sci-Fi, Length: 143 minutes
+Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Movie: Spirited Away (2002), Rating: 8/10, Genre: Fantasy, Length: 125 minutes
+Stars: Rumi Hiiragi, Miyu Irino
+Movie: Gone Girl (2014), Rating: 10/10, Genre: Thriller/Mystery, Length: 149 minutes
+Stars: Ben Affleck, Rosamund Pike
+Movie: Moonlight (2016), Rating: 10/10, Genre: Drama, Length: 119 minutes
+Stars: Mahershala Ali, Naomi Harris
+Movie: The Wolf of Wallstreet (2013), Rating: 10/10, Genre: Comedy, Length: 180 minutes
+Stars: Leonardo DiCaprio, Jonah Hill
+Movie: Maximum Overdrive (1986), Rating: 5/10, Genre: Horror, Length: 167 minutes
+Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+
+--- Movies ---
+Movie: To Kill a Mockingbird (1962), Rating: 5/10, Genre: Drama, Length: 129 minutes
+Stars: Gregory Peck, Mary Badham
+Movie: Ferris Bueller's Day Off (1986), Rating: 7/10, Genre: Comedy, Length: 103 minutes
+Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Movie: Rocky (1976), Rating: 7/10, Genre: Action, Length: 119 minutes
+Stars: Sylvester Stallone, Carl Weathers
+Movie: Jaws (1975), Rating: 5/10, Genre: Action, Length: 129 minutes
+Stars: Roy Scheider, Richard Dreyfuss
+Movie: Daughters of the Dust (1991), Rating: 8/10, Genre: Drama, Length: 112 minutes
+Stars: Alva Rogers, Cora Lee Day
+Movie: Raiders of the Lost Ark (1981), Rating: 6/10, Genre: Action, Length: 115 minutes
+Stars: Harrison Ford, Karen Allen
+Movie: Star Wars IV (1977), Rating: 6/10, Genre: Action, Length: 121 minutes
+Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Movie: Mr. Holland's Opus (1995), Rating: 8/10, Genre: Drama/Musical, Length: 143 minutes
+Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Movie: Blade Runner 2049 (2017), Rating: 9/10, Genre: Sci-Fi, Length: 163 minutes
+Stars: Ryan Gosling, Harrison Ford
+Movie: Jurassic Park (1993), Rating: 8/10, Genre: Sci-Fi, Length: 127 minutes
+Stars: Sam Neill, Jeff Goldblum
+Movie: Dune (2021), Rating: 7/10, Genre: Sci-Fi, Length: 155 minutes
+Stars: Timothee Chalamet, Zendaya
+Movie: Fight Club (1999), Rating: 10/10, Genre: Drama, Length: 7219 minutes
+Stars: Brad Pitt, Edward Norton
+Movie: Percy Jackson and the Lightning Thief (2010), Rating: 2/10, Genre: Fantasy, Length: 119 minutes
+Stars: Logan Lerman, Alexandra Daddario
+Movie: The Grand Budapest Hotel (2014), Rating: 9/10, Genre: Adventure, Length: 100 minutes
+Stars: Ralph Fiennes, Saoirse Ronan
+Movie: Superman (1978), Rating: 8/10, Genre: Sci-Fi, Length: 143 minutes
+Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Movie: Spirited Away (2002), Rating: 8/10, Genre: Fantasy, Length: 125 minutes
+Stars: Rumi Hiiragi, Miyu Irino
+Movie: Gone Girl (2014), Rating: 10/10, Genre: Thriller/Mystery, Length: 149 minutes
+Stars: Ben Affleck, Rosamund Pike
+Movie: Moonlight (2016), Rating: 10/10, Genre: Drama, Length: 119 minutes
+Stars: Mahershala Ali, Naomi Harris
+Movie: The Wolf of Wallstreet (2013), Rating: 10/10, Genre: Comedy, Length: 180 minutes
+Stars: Leonardo DiCaprio, Jonah Hill
+Movie: Maximum Overdrive (1986), Rating: 5/10, Genre: Horror, Length: 167 minutes
+Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+
+--- Songs ---
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+
+--- Books ---
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+
+--- Songs ---
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+
+--- All Media ---
+Movie: To Kill a Mockingbird (1962), Rating: 5/10, Genre: Drama, Length: 129 minutes
+Stars: Gregory Peck, Mary Badham
+Movie: Ferris Bueller's Day Off (1986), Rating: 7/10, Genre: Comedy, Length: 103 minutes
+Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Movie: Rocky (1976), Rating: 7/10, Genre: Action, Length: 119 minutes
+Stars: Sylvester Stallone, Carl Weathers
+Movie: Jaws (1975), Rating: 5/10, Genre: Action, Length: 129 minutes
+Stars: Roy Scheider, Richard Dreyfuss
+Movie: Daughters of the Dust (1991), Rating: 8/10, Genre: Drama, Length: 112 minutes
+Stars: Alva Rogers, Cora Lee Day
+Movie: Raiders of the Lost Ark (1981), Rating: 6/10, Genre: Action, Length: 115 minutes
+Stars: Harrison Ford, Karen Allen
+Movie: Star Wars IV (1977), Rating: 6/10, Genre: Action, Length: 121 minutes
+Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Movie: Mr. Holland's Opus (1995), Rating: 8/10, Genre: Drama/Musical, Length: 143 minutes
+Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Movie: Blade Runner 2049 (2017), Rating: 9/10, Genre: Sci-Fi, Length: 163 minutes
+Stars: Ryan Gosling, Harrison Ford
+Movie: Jurassic Park (1993), Rating: 8/10, Genre: Sci-Fi, Length: 127 minutes
+Stars: Sam Neill, Jeff Goldblum
+Movie: Dune (2021), Rating: 7/10, Genre: Sci-Fi, Length: 155 minutes
+Stars: Timothee Chalamet, Zendaya
+Movie: Fight Club (1999), Rating: 10/10, Genre: Drama, Length: 7219 minutes
+Stars: Brad Pitt, Edward Norton
+Movie: Percy Jackson and the Lightning Thief (2010), Rating: 2/10, Genre: Fantasy, Length: 119 minutes
+Stars: Logan Lerman, Alexandra Daddario
+Movie: The Grand Budapest Hotel (2014), Rating: 9/10, Genre: Adventure, Length: 100 minutes
+Stars: Ralph Fiennes, Saoirse Ronan
+Movie: Superman (1978), Rating: 8/10, Genre: Sci-Fi, Length: 143 minutes
+Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Movie: Spirited Away (2002), Rating: 8/10, Genre: Fantasy, Length: 125 minutes
+Stars: Rumi Hiiragi, Miyu Irino
+Movie: Gone Girl (2014), Rating: 10/10, Genre: Thriller/Mystery, Length: 149 minutes
+Stars: Ben Affleck, Rosamund Pike
+Movie: Moonlight (2016), Rating: 10/10, Genre: Drama, Length: 119 minutes
+Stars: Mahershala Ali, Naomi Harris
+Movie: The Wolf of Wallstreet (2013), Rating: 10/10, Genre: Comedy, Length: 180 minutes
+Stars: Leonardo DiCaprio, Jonah Hill
+Movie: Maximum Overdrive (1986), Rating: 5/10, Genre: Horror, Length: 167 minutes
+Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+
+--- Songs ---
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+Song: Africa (1982), Rating: 7/10, Genre: rock, Duration: 295 seconds, Top40: Yes
+Song: Strawberry Fields Forever (1967), Rating: 9/10, Genre: pop, Duration: 185 seconds, Top40: Yes
+Song: Bohemian Rhapsody (1975), Rating: 8/10, Genre: rock, Duration: 355 seconds, Top40: Yes
+Song: Yellow Submarine (1966), Rating: 8/10, Genre: pop, Duration: 310 seconds, Top40: Yes
+
+--- Books ---
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+Book: Close Encounters (1997), Rating: 5/10, Genre: Science Fiction, Pages: 256, Weeks on NYT Best Seller: 5
+Book: Lessons in Chemistry (2022), Rating: 5/10, Genre: Humor, Pages: 320, Weeks on NYT Best Seller: 5
+
+--- Books ---
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+Book: Close Encounters (1997), Rating: 5/10, Genre: Science Fiction, Pages: 256, Weeks on NYT Best Seller: 5
+Book: Lessons in Chemistry (2022), Rating: 5/10, Genre: Humor, Pages: 320, Weeks on NYT Best Seller: 5
+
+--- Books ---
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+Book: Close Encounters (1997), Rating: 5/10, Genre: Science Fiction, Pages: 256, Weeks on NYT Best Seller: 5
+Book: Lessons in Chemistry (2022), Rating: 5/10, Genre: Humor, Pages: 320, Weeks on NYT Best Seller: 5
+
+--- Media with key name 'Stephen King' ---
+Movie: Maximum Overdrive (1986), Rating: 5/10, Genre: Horror, Length: 167 minutes
+Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+
+--- Songs ---
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+Song: Africa (1982), Rating: 7/10, Genre: rock, Duration: 295 seconds, Top40: Yes
+Song: Strawberry Fields Forever (1967), Rating: 9/10, Genre: pop, Duration: 185 seconds, Top40: Yes
+Song: Bohemian Rhapsody (1975), Rating: 8/10, Genre: rock, Duration: 355 seconds, Top40: Yes
+Song: Yellow Submarine (1966), Rating: 8/10, Genre: pop, Duration: 310 seconds, Top40: Yes
+
+--- Songs ---
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+Song: Africa (1982), Rating: 7/10, Genre: rock, Duration: 295 seconds, Top40: Yes
+Song: Strawberry Fields Forever (1967), Rating: 9/10, Genre: pop, Duration: 185 seconds, Top40: Yes
+Song: Bohemian Rhapsody (1975), Rating: 8/10, Genre: rock, Duration: 355 seconds, Top40: Yes
+Song: Yellow Submarine (1966), Rating: 8/10, Genre: pop, Duration: 310 seconds, Top40: Yes
+
+--- Songs ---
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+Song: Africa (1982), Rating: 7/10, Genre: rock, Duration: 295 seconds, Top40: Yes
+Song: Strawberry Fields Forever (1967), Rating: 9/10, Genre: pop, Duration: 185 seconds, Top40: Yes
+Song: Bohemian Rhapsody (1975), Rating: 8/10, Genre: rock, Duration: 355 seconds, Top40: Yes
+Song: Yellow Submarine (1966), Rating: 8/10, Genre: pop, Duration: 310 seconds, Top40: Yes
+Stars in 'Hidden Figures': Jaraji P Henson, Octavia Spencer, Janelle Monae
+Stars in 'Dune': Timothee Chalamet, Zendaya
+
+--- Movies featuring Octavia Spencer ---
+Movie: Hidden Figures (2016), Rating: 9/10, Genre: Drama, Length: 126 minutes
+Stars: Jaraji P Henson, Octavia Spencer, Janelle Monae
+
+--- Movies featuring Harrison Ford ---
+Movie: Raiders of the Lost Ark (1981), Rating: 6/10, Genre: Action, Length: 115 minutes
+Stars: Harrison Ford, Karen Allen
+Movie: Star Wars IV (1977), Rating: 6/10, Genre: Action, Length: 121 minutes
+Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Movie: Blade Runner 2049 (2017), Rating: 9/10, Genre: Sci-Fi, Length: 163 minutes
+Stars: Ryan Gosling, Harrison Ford
+
+--- Movies featuring Victor Lee ---
+
+--- Media with key name 'Harrison Ford' ---
+
+--- Media with key name 'Steven Spielberg' ---
+Movie: Jaws (1975), Rating: 5/10, Genre: Action, Length: 129 minutes
+Stars: Roy Scheider, Richard Dreyfuss
+Movie: Jurassic Park (1993), Rating: 8/10, Genre: Sci-Fi, Length: 127 minutes
+Stars: Sam Neill, Jeff Goldblum
+Book: Close Encounters (1997), Rating: 5/10, Genre: Science Fiction, Pages: 256, Weeks on NYT Best Seller: 5
+
+--- Media with key name 'Bee Gees' ---
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+
+--- Media with key name 'Beatles' ---
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Strawberry Fields Forever (1967), Rating: 9/10, Genre: pop, Duration: 185 seconds, Top40: Yes
+Song: Yellow Submarine (1966), Rating: 8/10, Genre: pop, Duration: 310 seconds, Top40: Yes
+
+--- All Media ---
+Movie: To Kill a Mockingbird (1962), Rating: 5/10, Genre: Drama, Length: 129 minutes
+Stars: Gregory Peck, Mary Badham
+Movie: Ferris Bueller's Day Off (1986), Rating: 7/10, Genre: Comedy, Length: 103 minutes
+Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Movie: Rocky (1976), Rating: 7/10, Genre: Action, Length: 119 minutes
+Stars: Sylvester Stallone, Carl Weathers
+Movie: Jaws (1975), Rating: 5/10, Genre: Action, Length: 129 minutes
+Stars: Roy Scheider, Richard Dreyfuss
+Movie: Daughters of the Dust (1991), Rating: 8/10, Genre: Drama, Length: 112 minutes
+Stars: Alva Rogers, Cora Lee Day
+Movie: Raiders of the Lost Ark (1981), Rating: 6/10, Genre: Action, Length: 115 minutes
+Stars: Harrison Ford, Karen Allen
+Movie: Star Wars IV (1977), Rating: 6/10, Genre: Action, Length: 121 minutes
+Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Movie: Mr. Holland's Opus (1995), Rating: 8/10, Genre: Drama/Musical, Length: 143 minutes
+Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Movie: Blade Runner 2049 (2017), Rating: 9/10, Genre: Sci-Fi, Length: 163 minutes
+Stars: Ryan Gosling, Harrison Ford
+Movie: Jurassic Park (1993), Rating: 8/10, Genre: Sci-Fi, Length: 127 minutes
+Stars: Sam Neill, Jeff Goldblum
+Movie: Dune (2021), Rating: 7/10, Genre: Sci-Fi, Length: 155 minutes
+Stars: Timothee Chalamet, Zendaya
+Movie: Fight Club (1999), Rating: 10/10, Genre: Drama, Length: 7219 minutes
+Stars: Brad Pitt, Edward Norton
+Movie: Percy Jackson and the Lightning Thief (2010), Rating: 2/10, Genre: Fantasy, Length: 119 minutes
+Stars: Logan Lerman, Alexandra Daddario
+Movie: The Grand Budapest Hotel (2014), Rating: 9/10, Genre: Adventure, Length: 100 minutes
+Stars: Ralph Fiennes, Saoirse Ronan
+Movie: Superman (1978), Rating: 8/10, Genre: Sci-Fi, Length: 143 minutes
+Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Movie: Spirited Away (2002), Rating: 8/10, Genre: Fantasy, Length: 125 minutes
+Stars: Rumi Hiiragi, Miyu Irino
+Movie: Gone Girl (2014), Rating: 10/10, Genre: Thriller/Mystery, Length: 149 minutes
+Stars: Ben Affleck, Rosamund Pike
+Movie: Moonlight (2016), Rating: 10/10, Genre: Drama, Length: 119 minutes
+Stars: Mahershala Ali, Naomi Harris
+Movie: The Wolf of Wallstreet (2013), Rating: 10/10, Genre: Comedy, Length: 180 minutes
+Stars: Leonardo DiCaprio, Jonah Hill
+Movie: Maximum Overdrive (1986), Rating: 5/10, Genre: Horror, Length: 167 minutes
+Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+Movie: Hidden Figures (2016), Rating: 9/10, Genre: Drama, Length: 126 minutes
+Stars: Jaraji P Henson, Octavia Spencer, Janelle Monae
+Song: Africa (1982), Rating: 7/10, Genre: rock, Duration: 295 seconds, Top40: Yes
+Song: Strawberry Fields Forever (1967), Rating: 9/10, Genre: pop, Duration: 185 seconds, Top40: Yes
+Song: Bohemian Rhapsody (1975), Rating: 8/10, Genre: rock, Duration: 355 seconds, Top40: Yes
+Book: Close Encounters (1997), Rating: 5/10, Genre: Science Fiction, Pages: 256, Weeks on NYT Best Seller: 5
+Book: Lessons in Chemistry (2022), Rating: 5/10, Genre: Humor, Pages: 320, Weeks on NYT Best Seller: 5
+Song: Yellow Submarine (1966), Rating: 8/10, Genre: pop, Duration: 310 seconds, Top40: Yes
+
+--- Media By Type ---
+Movie: To Kill a Mockingbird (1962), Rating: 5/10, Genre: Drama, Length: 129 minutes
+Stars: Gregory Peck, Mary Badham
+Movie: Ferris Bueller's Day Off (1986), Rating: 7/10, Genre: Comedy, Length: 103 minutes
+Stars: Matthew Broderick, Alan Ruck, Jennifer Grey
+Movie: Rocky (1976), Rating: 7/10, Genre: Action, Length: 119 minutes
+Stars: Sylvester Stallone, Carl Weathers
+Movie: Jaws (1975), Rating: 5/10, Genre: Action, Length: 129 minutes
+Stars: Roy Scheider, Richard Dreyfuss
+Movie: Daughters of the Dust (1991), Rating: 8/10, Genre: Drama, Length: 112 minutes
+Stars: Alva Rogers, Cora Lee Day
+Movie: Raiders of the Lost Ark (1981), Rating: 6/10, Genre: Action, Length: 115 minutes
+Stars: Harrison Ford, Karen Allen
+Movie: Star Wars IV (1977), Rating: 6/10, Genre: Action, Length: 121 minutes
+Stars: Mark Hamill, Carrie Fisher, Harrison Ford, Alec Guiness
+Movie: Mr. Holland's Opus (1995), Rating: 8/10, Genre: Drama/Musical, Length: 143 minutes
+Stars: Richard Dreyfuss, Jay Thomas, Glenne Headly
+Movie: Blade Runner 2049 (2017), Rating: 9/10, Genre: Sci-Fi, Length: 163 minutes
+Stars: Ryan Gosling, Harrison Ford
+Movie: Jurassic Park (1993), Rating: 8/10, Genre: Sci-Fi, Length: 127 minutes
+Stars: Sam Neill, Jeff Goldblum
+Movie: Dune (2021), Rating: 7/10, Genre: Sci-Fi, Length: 155 minutes
+Stars: Timothee Chalamet, Zendaya
+Movie: Fight Club (1999), Rating: 10/10, Genre: Drama, Length: 7219 minutes
+Stars: Brad Pitt, Edward Norton
+Movie: Percy Jackson and the Lightning Thief (2010), Rating: 2/10, Genre: Fantasy, Length: 119 minutes
+Stars: Logan Lerman, Alexandra Daddario
+Movie: The Grand Budapest Hotel (2014), Rating: 9/10, Genre: Adventure, Length: 100 minutes
+Stars: Ralph Fiennes, Saoirse Ronan
+Movie: Superman (1978), Rating: 8/10, Genre: Sci-Fi, Length: 143 minutes
+Stars: Christopher Reeve, Gene Hackman, Margo Kidder
+Movie: Spirited Away (2002), Rating: 8/10, Genre: Fantasy, Length: 125 minutes
+Stars: Rumi Hiiragi, Miyu Irino
+Movie: Gone Girl (2014), Rating: 10/10, Genre: Thriller/Mystery, Length: 149 minutes
+Stars: Ben Affleck, Rosamund Pike
+Movie: Moonlight (2016), Rating: 10/10, Genre: Drama, Length: 119 minutes
+Stars: Mahershala Ali, Naomi Harris
+Movie: The Wolf of Wallstreet (2013), Rating: 10/10, Genre: Comedy, Length: 180 minutes
+Stars: Leonardo DiCaprio, Jonah Hill
+Movie: Maximum Overdrive (1986), Rating: 5/10, Genre: Horror, Length: 167 minutes
+Stars: Emilio Estivez, Pat Hingle, Laura Harrington
+Movie: Hidden Figures (2016), Rating: 9/10, Genre: Drama, Length: 126 minutes
+Stars: Jaraji P Henson, Octavia Spencer, Janelle Monae
+Book: To Kill a Mockingbird (1960), Rating: 8/10, Genre: Southern Gothic Fiction, Pages: 281, Weeks on NYT Best Seller: 4
+Book: Animal Farm (1945), Rating: 8/10, Genre: Allegory, Pages: 112, Weeks on NYT Best Seller: 6
+Book: The Great Gatsby (1925), Rating: 7/10, Genre: Modernist novel, Pages: 205, Weeks on NYT Best Seller: 10
+Book: The Catcher in the Rye (1951), Rating: 3/10, Genre: Coming of Age, Pages: 234, Weeks on NYT Best Seller: 9
+Book: Lord of the Flies (1954), Rating: 6/10, Genre: Adventure, Pages: 224, Weeks on NYT Best Seller: 3
+Book: Of Mice and Men (1937), Rating: 5/10, Genre: Tragedy, Pages: 107, Weeks on NYT Best Seller: 15
+Book: House of Leaves (2000), Rating: 9/10, Genre: Horror, Pages: 709, Weeks on NYT Best Seller: 0
+Book: I Can Teach You to Be Rich (2009), Rating: 8/10, Genre: Self Help, Pages: 272, Weeks on NYT Best Seller: 16
+Book: Neuromancer (1984), Rating: 10/10, Genre: Cyberpunk, Pages: 271, Weeks on NYT Best Seller: 16
+Book: Percy Jackson and the Last Olympian (2009), Rating: 9/10, Genre: Fantasy, Pages: 381, Weeks on NYT Best Seller: 15
+Book: Six of Crows (2015), Rating: 10/10, Genre: Fantasy, Pages: 462, Weeks on NYT Best Seller: 20
+Book: The Alchemist (1993), Rating: 9/10, Genre: Adventure, Pages: 163, Weeks on NYT Best Seller: 10
+Book: The Goldfinch (2013), Rating: 10/10, Genre: Suspense, Pages: 784, Weeks on NYT Best Seller: 1
+Book: The Hunger Games (2008), Rating: 7/10, Genre: Action, Pages: 284, Weeks on NYT Best Seller: 15
+Book: The Music of Erich Zann (1921), Rating: 10/10, Genre: Horror, Pages: 20, Weeks on NYT Best Seller: 2
+Book: Way of kings (2010), Rating: 10/10, Genre: Fantasy, Pages: 1200, Weeks on NYT Best Seller: 5
+Book: Close Encounters (1997), Rating: 5/10, Genre: Science Fiction, Pages: 256, Weeks on NYT Best Seller: 5
+Book: Lessons in Chemistry (2022), Rating: 5/10, Genre: Humor, Pages: 320, Weeks on NYT Best Seller: 5
+Song: All Too Well (2012), Rating: 10/10, Genre: Pop, Duration: 327 seconds, Top40: Yes
+Song: Ball if I want to (2021), Rating: 10/10, Genre: Rap, Duration: 192 seconds, Top40: Yes
+Song: Call out my name (2021), Rating: 8/10, Genre: R&B, Duration: 228 seconds, Top40: No
+Song: Yesterday (1965), Rating: 8/10, Genre: Rock, Duration: 123 seconds, Top40: Yes
+Song: Compass (2018), Rating: 8/10, Genre: Indie, Duration: 167 seconds, Top40: Yes
+Song: Easy on me (2021), Rating: 6/10, Genre: pop, Duration: 332 seconds, Top40: No
+Song: Figures (2018), Rating: 8/10, Genre: R&B, Duration: 240 seconds, Top40: No
+Song: First Love / Late Spring (2014), Rating: 10/10, Genre: Indie, Duration: 278 seconds, Top40: Yes
+Song: Frozen (2017), Rating: 5/10, Genre: R&B, Duration: 242 seconds, Top40: Yes
+Song: Garden Grove (1998), Rating: 10/10, Genre: Reggae, Duration: 262 seconds, Top40: No
+Song: Hey Jude (1968), Rating: 10/10, Genre: Rock, Duration: 431 seconds, Top40: Yes
+Song: Har dil ki ava (2014), Rating: 10/10, Genre: Slow music, Duration: 188 seconds, Top40: Yes
+Song: Holy Ghost (2015), Rating: 8/10, Genre: Choir, Duration: 256 seconds, Top40: Yes
+Song: kal ho na ho (2009), Rating: 9/10, Genre: Punajbi, Duration: 241 seconds, Top40: No
+Song: Let It Be (1970), Rating: 9/10, Genre: Rock, Duration: 241 seconds, Top40: Yes
+Song: Monks (2012), Rating: 10/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: More Than a Woman (1977), Rating: 9/10, Genre: Pop, Duration: 195 seconds, Top40: No
+Song: nasha ha (2010), Rating: 8/10, Genre: normal one, Duration: 258 seconds, Top40: No
+Song: Out Tha Mud (2015), Rating: 10/10, Genre: Rap, Duration: 187 seconds, Top40: No
+Song: Phali dafa (2017), Rating: 9/10, Genre: urdu, Duration: 284 seconds, Top40: No
+Song: Sea Dragon (2018), Rating: 9/10, Genre: Math Rock, Duration: 333 seconds, Top40: Yes
+Song: Slacker (2002), Rating: 10/10, Genre: Rap, Duration: 257 seconds, Top40: Yes
+Song: Something (2015), Rating: 10/10, Genre: R&B - Jazz, Duration: 464 seconds, Top40: Yes
+Song: Sweet Caroline (1969), Rating: 10/10, Genre: Rock, Duration: 203 seconds, Top40: Yes
+Song: Sweet Life (2012), Rating: 8/10, Genre: Pop, Duration: 262 seconds, Top40: No
+Song: Thank u - next (2019), Rating: 8/10, Genre: Pop, Duration: 207 seconds, Top40: Yes
+Song: The Mountain Top (2021), Rating: 10/10, Genre: Video Game Soundtrack, Duration: 259 seconds, Top40: No
+Song: Tik Tok (2009), Rating: 9/10, Genre: Pop, Duration: 199 seconds, Top40: Yes
+Song: Tranquility Base Hotel & Casino (2018), Rating: 10/10, Genre: Rock, Duration: 211 seconds, Top40: Yes
+Song: Wake Up (2015), Rating: 9/10, Genre: Alternative, Duration: 279 seconds, Top40: No
+Song: Africa (1982), Rating: 7/10, Genre: rock, Duration: 295 seconds, Top40: Yes
+Song: Strawberry Fields Forever (1967), Rating: 9/10, Genre: pop, Duration: 185 seconds, Top40: Yes
+Song: Bohemian Rhapsody (1975), Rating: 8/10, Genre: rock, Duration: 355 seconds, Top40: Yes
+Song: Yellow Submarine (1966), Rating: 8/10, Genre: pop, Duration: 310 seconds, Top40: Yes
+
+--- Quitting command processing ---

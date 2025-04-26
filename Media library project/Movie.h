@@ -1,29 +1,24 @@
-#pragma once
 #ifndef MOVIE_H
 #define MOVIE_H
 
 #include "Media.h"
+#include <vector>
 
 class Movie : public Media {
-private:
     std::vector<std::string> stars;
 
 public:
-    Movie(const std::string& ti, const std::string& k, int r, const std::string& g, int l, int y, const std::vector<std::string>& s)
-        : Media('M', ti, k, r, g, l, y), stars(s) {
-    }
+    Movie(const std::string& title,
+        const std::string& keyName,
+        int rating,
+        const std::string& genre,
+        int length,
+        int year,
+        const std::vector<std::string>& stars);
 
-    std::vector<std::string> getStars() const { return stars; }
-    void setStars(const std::vector<std::string>& s) { stars = s; }
-
-    void print(std::ostream& os, const std::vector<Media*>&) const override {
-        os << "Movie: " << title << " (" << yearReleased << ")\n";
-        os << "Stars: ";
-        for (const auto& star : stars) {
-            os << star << ", ";
-        }
-        os << "\n";
-    }
+    void print(std::ostream& out, const std::vector<Media*>& mediaList) const override;
+    std::string getKeyName() const override;
+    const std::vector<std::string>& getStars() const { return stars; }
 };
 
 #endif
