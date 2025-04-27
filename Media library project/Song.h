@@ -17,6 +17,7 @@ public:
 
     void print(std::ostream& out, const std::vector<Media*>& mediaList) const override;
     std::string getKeyName() const override;
+    char getType() const override { return 'S'; }  
 };
 
-#endif
+#endif  

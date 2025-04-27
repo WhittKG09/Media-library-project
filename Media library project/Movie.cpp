@@ -16,7 +16,6 @@ void Movie::print(std::ostream& out, const std::vector<Media*>& mediaList) const
         << " (" << year << "), Rating: " << rating
         << "/10, Genre: " << genre
         << ", Length: " << length << " minutes\n";
-    out << "Stars: ";
     for (size_t i = 0; i < stars.size(); ++i) {
         out << stars[i];
         if (i != stars.size() - 1) out << ", ";

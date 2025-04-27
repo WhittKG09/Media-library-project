@@ -20,10 +20,13 @@ public:
         const std::string& genre,
         int length,
         int year);
-    virtual ~Media() = default;
 
+    virtual ~Media() = default;  // Virtual destructor
+
+    // Pure virtual functions
     virtual void print(std::ostream& out, const std::vector<Media*>& mediaList) const = 0;
     virtual std::string getKeyName() const = 0;
+    virtual char getType() const = 0;
 
     // Common getters
     std::string getTitle() const { return title; }
